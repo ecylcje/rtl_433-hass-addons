@@ -1,3 +1,7 @@
+## [0.1.9a] - 2021-11-17
+
+- PR merge for external broker
+
 ## [0.1.9] - 2021-10-03
 
 - Use local copy of rtl_433 discovery script to incorporate changes not merged upstream
