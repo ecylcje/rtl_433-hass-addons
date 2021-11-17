@@ -1,4 +1,4 @@
-# rtl_433 MQTT Auto Discovery Home Assistant Add-on
+# rtl_433 MQTT Auto Discovery Home Assistant Add-on (CE)
 
 ## About
 
